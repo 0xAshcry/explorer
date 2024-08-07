@@ -1,0 +1,21 @@
+{
+    "chain_name": "0g",
+    "api": [
+        "http://0g-testnet-api.daaps-j4ran.cloud"
+    ],
+    "rpc": [
+        "http://0g-testnet-rpc.daaps-j4ran.cloud/"
+    ],
+    "coin_type": "118",
+    "sdk_version": "0.46.11",
+    "addr_prefix": "0g",
+    "min_tx_fee": "0.00252ua0gi",
+    "logo": "/logos/zg-logo.svg",
+    "assets": [
+        {
+            "symbol": "a0gi",
+            "base": "ua0gi",
+            "exponent": 6
+        }
+    ]
+}
